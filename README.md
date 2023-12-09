@@ -82,4 +82,5 @@ The tools I primarly used are as follows:
 * **SQLite3**:
     * I spent a lot of time tinkering with and tweaking SQL queries to get the data I wanted and in the way that I wanted it. There were times where I used SQL that were pretty complicated, especially for me. I've done more with SQL and in more ways than I ever have in this project. One of the more complicated queries where I compile a cumulative sum of all stream data over the course of 2017-2021 was one of if not the most complicated query that I have ever written in SQL. My SQL abilities are far better than they ever have been as a result of this project.
 
-Special thank you to my mentor `Logapriya Viswathana`.
+Special thank you to my mentor `Logapriya Viswanathan`.
+
