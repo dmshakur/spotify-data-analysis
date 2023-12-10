@@ -11,6 +11,20 @@
   - Email: dangeloshakur@gmail.com
   - Phone: +57 321 450 7954 (Colombia)
 
+### Files and file structure
+- .git/
+- data/
+    - raw_spotify_charts_data.csv
+    - raw_soptify_charts_data.db
+- figures/
+    - 5 different png files created from seaborn from the data visualizations created in data-analysis.ipynb
+- notebooks/
+    - data_analysis.ipynb
+    - data_processing.ipynb
+- README.md
+- README.md.old
+- chatgpt_project_prompt.md
+
 ## Data Source and Characteristics
 - **Source**: [Spotify Charts Data on Kaggle](https://www.kaggle.com/datasets/dhruvildave/spotify-charts)
 - **Size**: Exceeding 3 GB (not hosted on GitHub)
