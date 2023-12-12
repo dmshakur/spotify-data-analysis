@@ -67,7 +67,3 @@ While the questions posed may not encompass the entire scope of potential data a
 
 ## Acknowledgments
 Special thanks to my mentor, Logapriya Viswanathan, for her invaluable guidance and support throughout this project.
-
----
-
-*This README has been revised for clarity, structure, and presentation, ensuring a concise and informative overview of the Spotify Data Analysis Project.*
